@@ -4,7 +4,7 @@ A GPS system for the BrickMMO Smart CIty using LEGO® bricks and a Pixy2 AI came
 
 ***
 
-## Repository Resources
+## Repo Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
 * [BrickMMO GPS](https://gps.brickmmo.com/)
