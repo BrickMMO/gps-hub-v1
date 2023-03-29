@@ -4,7 +4,7 @@ A GPS system for a LEGO™ city using LEGO™ bricks and a Pixy2 AI camera.
 
 ***
 
-## Requirements:
+## Repository Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
 * [BrickMMO GPS](https://gps.brickmmo.com/)
