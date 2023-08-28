@@ -1,4 +1,4 @@
-# BrickMMO GPS Hub
+# GPS Hubs V1
 
 A GPS system for the BrickMMO Smart CIty using LEGO® bricks and a Pixy2 AI camera. This code lives on the LEGO EV3.
 
